@@ -204,15 +204,6 @@ The dashboard helps decision-makers:
 
 ---
 
-# 📁 Project Structure
-
-```text
-Marketing-Performance-Analysis/
-│
-├── Marketing Project.pbix
-├── dashboard.png
-└── README.md
-
 ---
 
 ## 👨‍💻 Author
@@ -226,3 +217,5 @@ Data Analyst | Power BI | Excel | SQL | Python
 ## 📬 Project
 
 If you found this project useful or have any feedback, feel free to connect with me.
+
+
