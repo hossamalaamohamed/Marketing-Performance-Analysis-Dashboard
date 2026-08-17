@@ -201,7 +201,7 @@ The dashboard helps decision-makers:
 # 🖥️ Dashboard Preview
 
 ![Marketing Performance Dashboard](dashboard.png)
-
+** Screenshot 2026-08-02 172245.png **
 ---
 
 ---
